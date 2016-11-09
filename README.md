@@ -1,8 +1,8 @@
 # CS510 CW 9
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _Simrath Ratra, Andrew nguyen_
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-09-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-09-datacats.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-09-datacats)
 
 **Due date:** 2016/11/01
 
@@ -39,7 +39,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**The assignment was a good introduction to C. The reading pages were very helpful and informative. Also, the assignment did a good job in making us analyze C coding to get more familiar with it.**
 
 ## Honor Pledge
 
@@ -50,4 +50,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Simrath Ratra, Andrew Nguyen**
